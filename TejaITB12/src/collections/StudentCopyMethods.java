@@ -18,7 +18,7 @@ public class StudentCopyMethods  implements Cloneable{
 		this.name = name;
 		this.mobile = mobile;
 	}
-Collection
+
 	public static void main(String[] args) throws CloneNotSupportedException {
 		
 		StudentCopyMethods cm=new StudentCopyMethods(1, "syed", 123455666L); 

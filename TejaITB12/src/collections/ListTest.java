@@ -24,11 +24,8 @@ public class ListTest {
 		                   a1.add(50);
 		                   a1.add(1, 54);
 		                   a1.remove(5);
-		                   Stack
-		       Vector<E>
-		       LinkedList<E>            
-		       ArrayList          
-		       PriorityQueue<E>            
+		                   
+		                
 //		                   a1.add(1, 77);
 		                   
 	  System.out.println("get "+a1.get(1));

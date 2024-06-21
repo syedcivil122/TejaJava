@@ -27,7 +27,9 @@ public class unknown {
    			a3.setAcholder("prudvi king");
    	System.out.println(a3.getAcholder());
    		    a3.setAcholder("prudvi rowdi");
-   		    System.out.println(a3.getAcholder());			
+   		    System.out.println(a3.getAcholder());	
+   		    
+   		    System.out.println(ah.getAccountno());
    
 	}
 	
